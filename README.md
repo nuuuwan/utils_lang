@@ -6,6 +6,10 @@
 
 ## Version History 
 
-# 1.0.0 (CURRENT)
+# 1.0.1 (CURRENT)
+
+* Added TTS
+
+# 1.0.0 
 
 * Added Translator

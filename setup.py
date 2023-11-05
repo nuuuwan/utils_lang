@@ -3,11 +3,12 @@
 import setuptools
 
 DIST_NAME = 'utils_lang'
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 DESCRIPTION = "Utilities for Languages"
 INSTALL_REQUIRES = [
     'utils_base-nuuuwan',
     'deep_translator',
+    'gTTS',
 ]
 
 setuptools.setup(
